@@ -1,0 +1,15 @@
+# Dependencies
+api/node_modules/
+
+# Transpiled files
+api/src/dist
+
+# VS Code
+.vscode
+
+# JetBrains IDEs
+.idea/
+
+# Misc
+.DS_Store
+data

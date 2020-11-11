@@ -1,0 +1,12 @@
+{
+  "name": "express-session-cookie",
+  "version": "1.0.0",
+  "description": "API using express-session",
+  "main": "index.js",
+  "scripts": {
+    "api": "npm start --prefix api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
